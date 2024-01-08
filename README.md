@@ -2,6 +2,12 @@
 
 Welcome to Tindog - Where dogs meet their perfect match! Tindog is a fun and interactive web application that brings together dogs and their potential owners in a playful way.
 ##### Live Link: https://deaddemon.github.io/tindog/
+
+## preview
+
+![image](https://github.com/Deaddemon/tindog/assets/77224604/197892d6-164b-4ece-a97b-913ec2f2d68f)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
